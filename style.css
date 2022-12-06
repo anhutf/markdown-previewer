@@ -1,0 +1,12 @@
+body {
+  padding-top: 20px;
+}
+
+.view-container {
+  height: 75vh;
+  overflow: scroll;
+
+  border: 1px solid #333;
+  padding: 12px;
+  border-radius: 2px;
+}
